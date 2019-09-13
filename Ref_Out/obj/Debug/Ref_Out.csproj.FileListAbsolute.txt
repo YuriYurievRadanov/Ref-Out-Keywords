@@ -1,0 +1,7 @@
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\bin\Debug\Ref_Out.exe.config
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\bin\Debug\Ref_Out.exe
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\bin\Debug\Ref_Out.pdb
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\obj\Debug\Ref_Out.csprojAssemblyReference.cache
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\obj\Debug\Ref_Out.csproj.CoreCompileInputs.cache
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\obj\Debug\Ref_Out.exe
+C:\Users\KTN43990\Desktop\Ref_Out\Ref_Out\obj\Debug\Ref_Out.pdb
